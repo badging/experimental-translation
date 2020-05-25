@@ -8,7 +8,6 @@
 - **The review issue will be closed**
 
 
-
 > #### The `Reviewer` will check submissoins against all metrics to determine if the `badges` will be issued. 
 
 

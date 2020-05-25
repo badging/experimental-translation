@@ -1,4 +1,4 @@
-# Applicants  Workflow process to apply for event Badge
+# Applicants Workflow process to apply for event Badge
 
 ## Applicants are to open a PR  [here](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 
