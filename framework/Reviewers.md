@@ -4,9 +4,9 @@
 
 - **Applicants will respond to reviewer-raised issues on the *Project/Event* `.md` file**
 
-**- Projects/events should be weill documented. 
+- **Projects/events should be weill documented. 
 
-**Reviewers will make sure that the project complies with the [JOSS review criteria](https://joss.readthedocs.io/en/latest/review_criteria.html)
+#### Reviewers will make sure that the project complies with the [JOSS review criteria](https://joss.readthedocs.io/en/latest/review_criteria.html)
 
 
 
