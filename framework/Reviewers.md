@@ -4,7 +4,7 @@
 
 - **Applicants will respond to reviewer-raised issues on the *Project/Event* `.md` file**
 
-- **Projects/events should be weill documented. 
+ **Projects/events `.md` file should be weill documented.**
 
 - **An [OSI approved](https://opensource.org/licenses/alphabetical) license should be included in the repository.**
 
