@@ -28,7 +28,7 @@ Four statuses exist for the Diversity and Inclusion Badging Program:
 | Silver       | ![Silver]    |  4
 | Gold         | ![Gold]      |  5
 
-Each badge is made for an event or a project.
+**Each badge is made for an event or a project.**
 
 
 ### Obtaining Event badges is very important because it encourages Diversity & Inclusion by implementing the appropriate practices and guidelines.  
