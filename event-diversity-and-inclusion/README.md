@@ -16,6 +16,20 @@ The table format will have;
  `Event (name)`
 
  `Event Badge`
+ 
+ ## Badge Levels
+
+Four statuses exist for the Diversity and Inclusion Badging Program:
+
+| Level        | Badge        |  Requirements Met
+|--------------|--------------|-------------------------------------
+| Pending      | ![Pending]   |  0 to 2
+| Passing      | ![Passing]   |  3
+| Silver       | ![Silver]    |  4
+| Gold         | ![Gold]      |  5
+
+Each badge is made for an event or a project.
+
 
 ### Obtaining Event badges is very important because it encourages Diversity & Inclusion by implementing the appropriate practices and guidelines.  
 
@@ -23,6 +37,7 @@ The table format will have;
 **Specific metrics are used to determine how diverse and Inclusive the Events are, if met the Badges will be issued accordingly.**
 
 #### The metrics include:
+
 
 1. [Speaker Demographics](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/speaker-demographics.md)
 
