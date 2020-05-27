@@ -17,6 +17,20 @@
 
 > The Project must be hosted in a Git-based repository, ideally together with your software.
 
+## Badge Levels
+
+Four statuses exist for the Diversity and Inclusion Badging Program:
+
+| Level        | Badge        |  Requirements Met
+|--------------|--------------|-------------------------------------
+| Pending      | ![Pending]   |  0 to 2
+| Passing      | ![Passing]   |  3
+| Silver       | ![Silver]    |  4
+| Gold         | ![Gold]      |  5
+
+Each badge is made for an event or a project.
+
+
 
 **Specific Metrics will be used to determine how Diverse and Inclusive your project is.**
 
