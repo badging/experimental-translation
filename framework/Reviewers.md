@@ -6,6 +6,8 @@
 
 - **Projects/events should be weill documented. 
 
+- **An [OSI approved](https://opensource.org/licenses/alphabetical) license should be included in the repository.**
+
 #### Reviewers will make sure that the project complies with the [JOSS review criteria](https://joss.readthedocs.io/en/latest/review_criteria.html)
 
 
